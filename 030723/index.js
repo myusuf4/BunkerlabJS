@@ -18,3 +18,11 @@
 //     }
   
 //   };
+let obj ={
+    user:"m",
+    name:"s"
+}
+
+for (v in obj){
+    let{v}=obj;
+}

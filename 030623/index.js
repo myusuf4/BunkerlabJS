@@ -23,15 +23,16 @@
 // console.log(user.surname);
 
 
-let user={
-        name:"Muhammad",
-        surname:"Nurmirzayev",
-        "full name":"Nurmirzayev Muhammad"
-    }
+// let user={
+//         name:"Muhammad",
+//         surname:"Nurmirzayev",
+//         "full name":"Nurmirzayev Muhammad"
+//     }
 
 // user.name="Muhiddin"  
-delete user.surname;  
-console.log(user);
+// delete user.surname;  
+// console.log(user);
+
 
 
 
