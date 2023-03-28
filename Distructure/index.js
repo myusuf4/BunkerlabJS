@@ -13,4 +13,12 @@
 // console.log(name);
 // console.log(newName);
 
+// let obj={name:"Muhammad","hi":"Js",age:18,child:{fullname:"Nurmirzayev Muhammad"}};
+
+// let {fullname}=obj.child
+// let {child:fullname}=obj
+// let {child:{fullname}}=obj
+// console.log(fullname);
+
+
 
