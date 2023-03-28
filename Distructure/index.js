@@ -21,4 +21,15 @@
 // console.log(fullname);
 
 
+let arr=["apple","orange","kiwi"];
+
+// let [bir, ikki,uch]=arr
+// console.log(bir);
+// console.log(ikki);
+// console.log(uch);
+
+// let [bir, ...res]=arr
+// console.log(res);
+// console.log(bir);
+
 
