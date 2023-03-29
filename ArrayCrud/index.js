@@ -51,3 +51,36 @@ let user=[
 //     return res;
 // }
 // console.log(update({id:2,type:"name",value:"Usmon"}));
+
+
+// // console.log([1]===true);
+// // let num=[14,1,5,7,false];
+// // console.log(num.reverse());
+// // console.log(num);
+
+// // let res=num.filter((value,index,array)=>index)
+// // console.log(res);
+
+
+
+
+
+
+
+
+
+
+
+// // let obj=[
+// //     {name:"Muhammad",year:2002},
+// //     {name:"Muhammad",year:2003},
+// //     {name:"Muhammad",year:2004},
+// //     {name:"Muhammad",year:2002},
+// //     {name:"Muhammad",year:2004},
+// //     {name:"Muhammad",year:2001},
+// // ]
+// // let res=obj.sort((v)=>v.year==2002?v.ball=5:obj)
+// // console.log(res);
+
+
+// // console.log(isNaN("2"));
