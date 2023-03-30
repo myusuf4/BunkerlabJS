@@ -37,10 +37,10 @@
 // console.log(tort);
 // console.log(uch);
 
-let obj={
-    name:"muhammad",
-    child:{name:"Abdulloh"}
-}
+// let obj={
+//     name:"muhammad",
+//     child:{name:"Abdulloh"}
+// }
 
 // let {name,child,child:{name:newName},age}=obj;
 

@@ -28,12 +28,12 @@
 // console.log(newName);
 
 
-let arr=["apple","kiwi","banana"];
+// let arr=["apple","kiwi","banana"];
 
-let [bir,...rest]=arr;
-let [ikki,uch]=rest
+// let [bir,...rest]=arr;
+// let [ikki,uch]=rest
 
-console.log(bir);
-console.log(rest);
-console.log(ikki);
-console.log(uch);
+// console.log(bir);
+// console.log(rest);
+// console.log(ikki);
+// console.log(uch);
