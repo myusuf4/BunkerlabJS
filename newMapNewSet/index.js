@@ -151,3 +151,11 @@ console.log(set.delete("name"));
 //   for (let [key, value] of Object.entries(user)) {
 //     console.log(`${key}:${value}`); // name:John, then age:30
 //   }
+
+let str="web"
+let str1=`web`
+let str2='web'
+
+console.log(str);
+console.log(str1);
+console.log(str2);
