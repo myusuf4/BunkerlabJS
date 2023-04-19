@@ -63,3 +63,7 @@
 // get()
 // console.log(bir.outerHTML="<h2>salom</h2>");
 // console.log(bir.textContent="salom");
+
+
+
+
